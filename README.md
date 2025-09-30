@@ -1,4 +1,4 @@
-# Hey! I’m Fedor 👋
+# Hey! I’m Ted 👋
 
 **Frontend / Full-Stack Developer** — React & Next.js · Node.js · AI-powered UIs 
 
