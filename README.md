@@ -30,6 +30,6 @@ I build pragmatic web apps and internal tools: clean UX, fast APIs, measurable i
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/fgvlasov/)
+[LinkedIn](https://www.linkedin.com/in/teovlasov/)
 
 
